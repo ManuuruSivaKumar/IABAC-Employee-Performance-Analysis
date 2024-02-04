@@ -20,4 +20,4 @@ The top 3 features effecting employee performances are:
 2.Employee Last Salary Hike Percent
 3.Years since last promotion
 
- We can conclude that the company should provide a better environment for the employees as it increases the performance drastically. The company should increase the salary of the employee from time to time and help them maintain a worklife balance. On the other hand, shuffling the manager from time to time will also affect performance.
+ We conclude that the company should provide a better environment for the employees as it increases the performance drastically. The company should increase the salary of the employee from time to time and help them maintain a worklife balance. On the other hand, shuffling the manager from time to time will also affect performance.
