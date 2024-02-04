@@ -8,7 +8,7 @@ Insights are expected by this project:
 3. A trained model which can predict the employee performance based on factors as inputs. This will be used to hire employees
 4. Recommendations to improve the employee performance based on insights from analysis.
 
-5.Random Forest with RandomSearch gives 95% accuracy.
+Random Forest with RandomSearch gives 95% accuracy.
 
 The features that are positively correlated are Environment Satisfaction, Last Salary Hike Percent & Worklife Balance. This means that if these factors increases, Performance Rating will increase. On the other hand, the features that are negatively correlated are Years Since Last Promotion, Experience Years at this Company, Experience years in Current Role & Years with Current Manager. This means that if these factors increases, Performance Rating will go down.
 
